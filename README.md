@@ -3,5 +3,5 @@
 > Status do projeto na sua maquina, por favor digite:
 
 ```
-npm install resct
+node app.js
 ```
